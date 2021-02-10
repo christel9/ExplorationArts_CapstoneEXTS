@@ -9,7 +9,7 @@ Recent digitalization efforts from museums enable to create new exciting opportu
 ## Data source
 The data used in this project comes from the Metropolitan Museum of Art digital catalogue and online database. 
 The museum provides a large list of its collection, covering various types of pieces. 
-I retrieved the text data from their github repository: https://github.com/metmuseum/openaccess on 30 October 2020. 
+I retrieved the text file from their github repository: https://github.com/metmuseum/openaccess on 30 October 2020. 
 In addition, I used their API, following the indications here: https://metmuseum.github.io/
 In order to avoid any issues with legal rights, I only used the data for the art pieces labelled as 'Open Access' by the MET.
 In this repository, I uploaded a list of the artworks' ID after cleaning, for easy access. 
